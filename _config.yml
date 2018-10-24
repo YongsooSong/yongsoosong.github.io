@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song, Yongsoo \r \n (송용수)"
+  name             : "<p> Song, Yongsoo </p> <p> (송용수) </p>"
   avatar           : "profile.png"
   bio              : "Postdoc of UC San Diego"
   location         : "California, United States"
