@@ -9,10 +9,10 @@ author_profile: true
 
 Room 2128, Computer Science and Engineering Building (EBU3B), UC San Diego 
 
-### Address
+### Mailing Address
 
 <address>
-  9500 Gilman Dr #0404 <br />  La Jolla, San Diego <br /> CA 92093-0404, United States
+Yongsoo Song <br /> 9500 Gilman Dr #0404 <br />  La Jolla, San Diego <br /> CA 92093-0404, United States
 </address>
 
 ### Email

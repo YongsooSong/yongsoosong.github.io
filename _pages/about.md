@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.github.io) at department of Computer Science and Engineering, UC San Diego. I obtained my Ph.D. degree in mathematics in 2018 from Seoul National University, Korea. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)). I obtained my bachelor's degree from Seoul National University in 2012.
+I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.github.io) at department of [Computer Science and Engineering](https://cse.ucsd.edu), UC San Diego. I obtained my Ph.D. degree in mathematics in 2018 from Seoul National University, Korea. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)). I obtained my bachelor's degree from Seoul National University in 2012.
 
 <br> My research interests include security, privacy, and advanced cryptography. My main research focuses on the design, optimization, and applications of Homomorphic Encryption.
 
