@@ -13,31 +13,31 @@ author_profile: true
   1. Secure Outsourced Matrix Computation and Application to Neural Networks
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * The 25th ACM Conference on Computer and Communications Security (CCS 2018)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/matrix.pdf)
+      * [[url]](https://dl.acm.org/citation.cfm?id=3243837) [[pdf]](https://yongsoosong.github.io/files/papers/matrix.pdf)
   1. A Full RNS Variant of Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * The 25th Conference on Selected Areas in Cryptography (SAC 2018)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/RNS.pdf)
+      * [[ePrint]](https://eprint.iacr.org/2018/931) [[pdf]](https://yongsoosong.github.io/files/papers/RNS.pdf)
   1. Lizard: Cut off the Tail! Practical Post-Quantum Public-Key Encryption from LWE and LWR
       * Jung Hee Cheon, Duhyeong Kim, Joohee Lee, Yongsoo Song
       * The 11th Conference on Security and Cryptography for Networks (SCN 2018)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/lizard.pdf)
+      * [[ePrint]](https://eprint.iacr.org/2016/1126) [[pdf]](https://yongsoosong.github.io/files/papers/lizard.pdf)
   1. Bootstrapping for Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2018)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_14) [[ePrint]](https://eprint.iacr.org/2018/153) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf)
   1. Homomorphic Encryption for Arithmetic of Approximate Numbers
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * The 23rd International Conference on the Theory and Applications of Cryptology and Information Security (ASIACRYPT 2017)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) [[ePrint]](https://eprint.iacr.org/2016/421) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN.pdf)
   1. Encrypting Controller using Fully Homomorphic Encryption for Security of Cyber-Physical Systems
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS 2016)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/CPS.pdf)
+      * [[url]](https://www.sciencedirect.com/science/article/pii/S2405896316319796) [[pdf]](https://yongsoosong.github.io/files/papers/CPS.pdf)
   1. A Group Action on ZpX and the Generalized DLP with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
       * The 20th International Conference on Selected Areas in Cryptography (SAC 2013)
-      * [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
   1. Ensemble Method for Privacy-Preserving Logistic Regression based on Homomorphic Encryption
@@ -69,9 +69,17 @@ author_profile: true
   1. The Discrete Logarithm Problem with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
       * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
-      * [[URL]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
+      * [[pdf]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
 
 ## Manuscripts
+  1. A Practical Multi-Key Homomorphic Encryption
+      * Hao Chen, Ilaria Chillotti, Yongsoo Song
+      * 2018
+
+  1. Improved Bootstrapping for Approximate Homomorphic Encryption
+      * Hao Chen, Ilaria Chillotti, Yongsoo Song
+      * 2018
+
   1. Convergence Analysis of Gradient Descent with Errors
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao
       * 2018
