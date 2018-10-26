@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "[CV](https://yongsoosong.github.io/files/cv.pdf) (Last update: 2018-10-26)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +7,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[My CV](https://yongsoosong.github.io/files/cv.pdf) (Last update: 2018-10-26)
 
 Education
 ======
