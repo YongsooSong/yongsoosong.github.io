@@ -13,5 +13,5 @@ I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.gi
 <br><br> My research interests include security, privacy, and advanced cryptography. My main research focuses on the design, optimization, and applications of Homomorphic Encryption.
 
 ## What's NEW
-  * Our team (UCSD) won the second track (Homomorphic Encryption) of iDASH Privacy and Security Competition 2018! [[overall results]](https://yongsoosong.github.io/files/papers/idash18_track2.png)
+  * Our team (UCSD) won the second track (Homomorphic Encryption) of iDASH Privacy and Security Competition 2018! [[URL]](http://www.humangenomeprivacy.org/2018/) [[overall results]](https://yongsoosong.github.io/images/idash18_track2.png)
   * I will join the cryptographic group of Microsoft Research, Redmond, as a researcher
