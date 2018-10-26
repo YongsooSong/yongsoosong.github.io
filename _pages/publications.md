@@ -5,42 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication information
-
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+## Conferences
 
   1. List item one 
       * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  2. List item two
-  3. List item three
-  4. List item four
+  1. List item two
+  1. List item three
+  1. List item four
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          *. List item three
-          *. List item four
-      2. List item two
-      *. List item three
-      *. List item four
-  2. List item two
+## Journals
+  1. Ensemble Method for Privacy-Preserving Logistic Regression based on Homomorphic Encryption
+      * Jung Hee Cheon, Duhyeong Kim, Yongdae Kim, Yongsoo Song
+      * IEEE Access 2018
+  1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
+  	* Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
+  	* BMC Medical Genomics 2018
+  1. SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol
+  	* dd
+  1. Toward a Secure Drone System: Flying with Real-time Homomorphic Authenticated Encryption
+
+## Book and Book Chapters
+  1. The Discrete Logarithm Problem with Auxiliary Inputs
+      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
+      * URL
+
+## Manuscripts
+  1. The Discrete Logarithm Problem with Auxiliary Inputs
+      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
+      * URL

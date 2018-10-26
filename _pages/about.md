@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 Hi,
-
-This is test file [HEAAN](https://yongsoosong.github.io/files/HEAAN.pdf)
