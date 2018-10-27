@@ -13,7 +13,7 @@ I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.gi
 <br> My research interests include security, privacy, and advanced cryptography. My current research focuses on the design, optimization, and applications of Homomorphic Encryption.
 
 <br> I am the main developer of HEAAN which is an homomorphic encryption scheme with native support for fixed-point approximate arithmetic.
-  * [[Library]](https://github.com/snucrypto/HEAAN)
+  * [Library](https://github.com/snucrypto/HEAAN)
   * Construction
     * Basic Scheme [[CKKS17]](https://yongsoosong.github.io/files/papers/HEAAN.pdf) [[code]](https://github.com/kimandrik/HEAAN)
     * Bootstrapping [[CHKKS18]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
