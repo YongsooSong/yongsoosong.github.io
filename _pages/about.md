@@ -10,9 +10,10 @@ redirect_from:
 
 I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.github.io) at department of [Computer Science and Engineering](https://cse.ucsd.edu), UC San Diego. I obtained my Ph.D. degree in mathematics in 2018 from Seoul National University, Korea. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). I obtained my bachelor's degree from Seoul National University in 2012.
 
-<br> My research interests include security, privacy, and advanced cryptography. My current research focuses on the design, optimization, and applications of Homomorphic Encryption (HE)
+<br> My research interests include security, privacy, and advanced cryptography. My current research focuses on the design, optimization, and applications of Homomorphic Encryption.
 
-<br> I am the main developer of an HE scheme HEAAN with support for fixed-point approximate arithmetic.
+<br> I am the main developer of HEAAN which is an homomorphic encryption scheme with native support for fixed-point approximate arithmetic.
+  * [[Library]](https://github.com/snucrypto/HEAAN)
   * Construction
     * Basic Scheme [[CKKS17]](https://yongsoosong.github.io/files/papers/HEAAN.pdf) [[code]](https://github.com/kimandrik/HEAAN)
     * Bootstrapping [[CHKKS18]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
@@ -20,7 +21,7 @@ I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.gi
     * Real HEAAN [KS18]
   * Applications
     * Neural Networks [[JKLS18]](https://yongsoosong.github.io/files/papers/matrix.pdf)
-    * Logistic Regression Model Training [[CKKS18]](https://yongsoosong.github.io/files/papers/ensemble.pdf) [[KSKLC18]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSWXJ18]](https://yongsoosong.github.io/files/papers/HELR.pdf)
+    * Logistic Regression Model Training [[CKKS18]](https://yongsoosong.github.io/files/papers/ensemble.pdf) [[KSKLC18 (iDASH17)]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSWXJ18]](https://yongsoosong.github.io/files/papers/HELR.pdf)
 
 ## What's NEW
   * Our team (UCSD) won the second track (Homomorphic Encryption) of iDASH Privacy and Security Competition 2018. [[URL]](http://www.humangenomeprivacy.org/2018/) [[overall results]](https://yongsoosong.github.io/images/idash18_track2.jpg)
