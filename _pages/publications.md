@@ -47,29 +47,29 @@ author_profile: true
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
       * BMC Medical Genomics 2018
-      * [[pdf]](https://yongsoosong.github.io/files/papers/idash17.pdf)
+      * [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0401-7) [[ePrint]](https://eprint.iacr.org/2018/254) [[pdf]](https://yongsoosong.github.io/files/papers/idash17.pdf)
   1. SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * IEEE/ACM Transactions on Computational Biology and Bioinformatics 2018
-      * [[pdf]](https://yongsoosong.github.io/files/papers/sgx.pdf)
+      * [[url]](https://ieeexplore.ieee.org/document/8355587) [[pdf]](https://yongsoosong.github.io/files/papers/sgx.pdf)
   1. Toward a Secure Drone System: Flying with Real-time Homomorphic Authenticated Encryption
       * Jung Hee Cheon, Kyoohyung Han, Seong-Min Hong, Hyoun Jin Kim, Junsoo Kim, Suseong Kim, Hosung Seo, Hyungbo Shim, Yongsoo Song
       * IEEE Access 2018
-      * [[pdf]](https://yongsoosong.github.io/files/papers/drone.pdf)
+      * [[url]](https://ieeexplore.ieee.org/document/8325268) [[pdf]](https://yongsoosong.github.io/files/papers/drone.pdf)
   1. Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation
       * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * JMIR Medical Informatics 2018
-      * [[pdf]](https://yongsoosong.github.io/files/papers/HELR.pdf)
-  1. Secure Searching of Biomarkers Using Hybrid Homomorphic Encryption Scheme
+      * [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074) [[pdf]](https://yongsoosong.github.io/files/papers/HELR.pdf)
+  1. Secure Searching of Biomarkers Through Hybrid Homomorphic Encryption Scheme
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
       * BMC Medical Genomics 2017
-      * [[pdf]](https://yongsoosong.github.io/files/papers/idash16.pdf)
+      * [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294) [[pdf]](https://yongsoosong.github.io/files/papers/idash16.pdf)
 
 ## Book and Book Chapters
   1. The Discrete Logarithm Problem with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
       * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
-      * [[pdf]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
+      * [[url]](https://www.degruyter.com/viewbooktoc/product/207742) [[pdf]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
 
 ## Manuscripts
   1. A Practical Multi-Key Homomorphic Encryption
