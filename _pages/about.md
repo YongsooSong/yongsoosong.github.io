@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+### I will join Microsoft Research, Redmond, as a researcher.
+
 I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.github.io) at department of [Computer Science and Engineering](https://cse.ucsd.edu), UC San Diego. I obtained my B.S. and Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2012 and 2018, respectively. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 
 <br> My research interests include security, privacy, and advanced cryptography. My current research focuses on the design, optimization, and applications of Homomorphic Encryption.
