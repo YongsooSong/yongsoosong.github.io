@@ -20,7 +20,7 @@ I am a postdoctoral researcher working with [Prof. Sicun Gao](https://scungao.gi
     * Basic Scheme [[CKKS17]](https://yongsoosong.github.io/files/papers/HEAAN.pdf) [[code]](https://github.com/kimandrik/HEAAN)
     * Bootstrapping [[CHKKS18]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
     * Full RNS HEAAN [[CHKKS18b]](https://yongsoosong.github.io/files/papers/RNS.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
-    * Real HEAAN [KS18]
+    * Real HEAAN [[KS18]](https://yongsoosong.github.io/files/papers/HEAAN_real.pdf)
   * Applications
     * Neural Networks [[JKLS18]](https://yongsoosong.github.io/files/papers/matrix.pdf)
     * Logistic Regression Model Training [[CKKS18]](https://yongsoosong.github.io/files/papers/ensemble.pdf) [[KSKLC18 (iDASH17)]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSWXJ18]](https://yongsoosong.github.io/files/papers/HELR.pdf)
