@@ -10,6 +10,7 @@ author_profile: true
   1. Approximate Homomorphic Encryption over the Conjugate-invariant Ring
       * Duhyeong Kim, Yongsoo Song
       * The 21st Annual International Conference on Information Security and Cryptology (ICISC 2018)
+      * [[ePrint]](https://eprint.iacr.org/2018/952)
   1. Secure Outsourced Matrix Computation and Application to Neural Networks
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * The 25th ACM Conference on Computer and Communications Security (CCS 2018)
@@ -43,7 +44,7 @@ author_profile: true
   1. Ensemble Method for Privacy-Preserving Logistic Regression based on Homomorphic Encryption
       * Jung Hee Cheon, Duhyeong Kim, Yongdae Kim, Yongsoo Song
       * IEEE Access 2018
-      * [[pdf]](https://yongsoosong.github.io/files/papers/ensemble.pdf)
+      * [[url]](https://ieeexplore.ieee.org/document/8444365) [[pdf]](https://yongsoosong.github.io/files/papers/ensemble.pdf)
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
       * BMC Medical Genomics 2018
@@ -79,6 +80,7 @@ author_profile: true
   1. Improved Bootstrapping for Approximate Homomorphic Encryption
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
       * 2018
+      * [[ePrint]](https://eprint.iacr.org/2018/1043)
 
   1. Convergence Analysis of Gradient Descent with Errors
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao
