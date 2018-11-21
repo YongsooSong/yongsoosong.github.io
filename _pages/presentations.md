@@ -4,6 +4,9 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+   1. Approximate Homomorphic Encryption: construction and bootstrapping
+      * ECC 2018, University of Osaka, Japan, November 2018
+      * [[slides]](https://yongsoosong.github.io/files/slides/ECC18.pdf)
 
   1. A Full RNS Variant of Approximate Homomorphic Encryption
       * SAC 2018, University of Calgary, Canada, August 2018
