@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-### Office [[google maps]](https://https://goo.gl/maps/VYhX3k2zagF2)
+### Office [[google maps]](https://goo.gl/maps/VYhX3k2zagF2)
 
 Microsoft Building 99, Redmond, WA 98052
 
