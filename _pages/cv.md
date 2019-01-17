@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[[pdf]](https://yongsoosong.github.io/files/CV.pdf) (Last update: 2018-10-26)
+[[pdf]](https://yongsoosong.github.io/files/CV.pdf) (Last update: 2019-01-17)
 
 Education
 ======
@@ -16,7 +16,11 @@ Education
 
 Positions
 ======
-* University of California, San Diego (January 2018 - Present)
+* Microsoft Research, Redmond (January 2019 - Present)
+  * Researcher, Cryptography Group
+  * Research Manager: [Dr. Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/)
+
+* University of California, San Diego (January 2018 - December 2018)
   * Postdoctoral Researcher, Computer Science and Engineering
   * Supervisor: Prof. Sicun Gao
   
