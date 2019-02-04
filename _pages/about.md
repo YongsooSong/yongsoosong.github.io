@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I am a researcher in the [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, Redmond.
-My research interests include security, privacy, and advanced cryptography. My current research focuses on the design, optimization, and applications of Homomorphic Encryption.
-In particular, I developed a homomorphic encryption scheme, called HEAAN, with native support for fixed-point approximate arithmetic.
+My research focus is include security, privacy, and advanced cryptography. Currently I am very interested in design, optimization, and applications of Homomorphic Encryption.
 
 I obtained my B.S. and Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2012 and 2018, respectively. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 I have been a postdoctoral researcher hosted by [Prof. Sicun Gao](https://scungao.github.io) at UC San Diego prior to joining Microsoft.
@@ -28,4 +27,4 @@ I have been a postdoctoral researcher hosted by [Prof. Sicun Gao](https://scunga
 
 ## What's NEW
   * Our team (UCSD) won the second track (Homomorphic Encryption) of iDASH Privacy and Security Competition 2018. [[URL]](http://www.humangenomeprivacy.org/2018/) [[overall results]](https://yongsoosong.github.io/images/idash18_track2.jpg)
-  * [SEAL v3.0](http://sealcrypto.org/) has been released. It now supports the Full RNS variant of HEAAN.
+  * [SEAL v3.1.0](http://sealcrypto.org/) has been released under MIT license. It now supports the Full RNS variant of HEAAN.
