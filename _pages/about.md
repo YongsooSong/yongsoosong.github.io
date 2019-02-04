@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a researcher in the [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, Redmond.
-My research focus is include security, privacy, and advanced cryptography. Currently I am very interested in design, optimization, and applications of Homomorphic Encryption.
+My research focus is on security, privacy, and advanced cryptography. Currently I am very interested in design, optimization, and applications of Homomorphic Encryption.
 
 I obtained my B.S. and Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2012 and 2018, respectively. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 I have been a postdoctoral researcher hosted by [Prof. Sicun Gao](https://scungao.github.io) at UC San Diego prior to joining Microsoft.
