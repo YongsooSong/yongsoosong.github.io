@@ -8,39 +8,39 @@ author_profile: true
 ## Conferences
   1. Improved Bootstrapping for Approximate Homomorphic Encryption
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
-      * EUROCRYPT 2019
-      * [[ePrint]](https://eprint.iacr.org/2018/1043)
+      * The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques [[EUROCRYPT 2019]](https://eurocrypt.iacr.org/2019/)
+      * [[ePrint]](https://eprint.iacr.org/2018/1043) [[pdf]](https://yongsoosong.github.io/files/papers/improved_boot.pdf)
   1. Approximate Homomorphic Encryption over the Conjugate-invariant Ring
       * Duhyeong Kim, Yongsoo Song
-      * ICISC 2018
-      * [[ePrint]](https://eprint.iacr.org/2018/952)
+      * The 21st Annual International Conference on Information Security and Cryptology [[ICISC 2018]](http://www.icisc.org/)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-12146-4_6) [[ePrint]](https://eprint.iacr.org/2018/952) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_real.pdf)
   1. Secure Outsourced Matrix Computation and Application to Neural Networks
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
-      * CCS 2018
+      * The 25th ACM Conference on Computer and Communications Security [[CCS 2018]](https://www.sigsac.org/ccs/CCS2018/)
       * [[url]](https://dl.acm.org/citation.cfm?id=3243837) [[pdf]](https://yongsoosong.github.io/files/papers/matrix.pdf)
   1. A Full RNS Variant of Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * SAC 2018
-      * [[ePrint]](https://eprint.iacr.org/2018/931) [[pdf]](https://yongsoosong.github.io/files/papers/RNS.pdf)
-  1. Lizard: Cut off the Tail! Practical Post-Quantum Public-Key Encryption from LWE and LWR
+      * The 25th Conference on Selected Areas in Cryptography [[SAC 2018]](https://www.ucalgary.ca/cpsc/selected-areas-cryptography/)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-10970-7_16) [[ePrint]](https://eprint.iacr.org/2018/931) [[pdf]](https://yongsoosong.github.io/files/papers/RNS.pdf)
+  1. Lizard: Cut off the Tail! A Practical Post-Quantum Public-Key Encryption from LWE and LWR
       * Jung Hee Cheon, Duhyeong Kim, Joohee Lee, Yongsoo Song
-      * SCN 2018
-      * [[ePrint]](https://eprint.iacr.org/2016/1126) [[pdf]](https://yongsoosong.github.io/files/papers/lizard.pdf)
+      * The 11th Conference on Security and Cryptography for Networks [[SCN 2018]](http://scn.di.unisa.it/)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-319-98113-0_9) [[ePrint]](https://eprint.iacr.org/2016/1126) [[pdf]](https://yongsoosong.github.io/files/papers/lizard.pdf)
   1. Bootstrapping for Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * EUROCRYPT 2018
+      * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques [[EUROCRYPT 2018]](https://eurocrypt.iacr.org/2018/index.html)
       * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_14) [[ePrint]](https://eprint.iacr.org/2018/153) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf)
   1. Homomorphic Encryption for Arithmetic of Approximate Numbers
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * ASIACRYPT 2017
+      * The 23rd Annual International Conference on the Theory and Application of Cryptology and Information Security [[ASIACRYPT 2017]](https://asiacrypt.iacr.org/2017/)
       * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) [[ePrint]](https://eprint.iacr.org/2016/421) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN.pdf)
   1. Encrypting Controller using Fully Homomorphic Encryption for Security of Cyber-Physical Systems
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * NECSYS 2016
+      * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems [[NECSYS 2016]](http://www.necsys2016.ctrl.titech.ac.jp/)
       * [[url]](https://www.sciencedirect.com/science/article/pii/S2405896316319796) [[pdf]](https://yongsoosong.github.io/files/papers/CPS.pdf)
   1. A Group Action on ZpX and the Generalized DLP with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
-      * SAC 2013
+      * The 20th Conference on Selected Areas in Cryptography [[SAC 2013]](http://sac2013.irmacs.sfu.ca/)
       * [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
@@ -86,7 +86,7 @@ author_profile: true
   1. Multi-Key Homomorphic Encryption from TFHE
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
       * 2018
-  1. Convergence Analysis of Gradient Descent with Errors
+  1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao
       * 2018
   1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher
