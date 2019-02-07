@@ -79,12 +79,13 @@ author_profile: true
   1. Semi-parallel logistic regression for GWAS on encrypted data
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * 2019
-  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
-      * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon
-      * [[ePrint]](https://eprint.iacr.org/2018/1214)
-      * 2018
   1. Multi-Key Homomorphic Encryption from TFHE
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
+      * [[ePrint]](https://eprint.iacr.org/2019/116) [[pdf]](https://yongsoosong.github.io/files/papers/MKTFHE.pdf)
+      * 2019
+ 1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
+      * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon
+      * [[ePrint]](https://eprint.iacr.org/2018/1214) [[pdf]](https://yongsoosong.github.io/files/papers/bio_auth.pdf)
       * 2018
   1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao
