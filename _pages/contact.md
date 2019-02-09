@@ -18,7 +18,7 @@ Yongsoo Song <br /> Microsoft Building 99 <br /> Redmond <br /> WA 98052, United
 
 ### Email
 
-Professional: Yongsoo.Song at microsoft dot com <br />
+Professional: Yongsoo dot Song at microsoft dot com <br />
 Personal: yssong618 at gmail dot com
 
 ### Phone

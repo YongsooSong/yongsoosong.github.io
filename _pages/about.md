@@ -26,5 +26,6 @@ I have been a postdoctoral researcher hosted by [Prof. Sicun Gao](https://scunga
     * Logistic Regression Model Training [[CKKS18]](https://yongsoosong.github.io/files/papers/ensemble.pdf) [[KSKLC18 (iDASH17)]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSWXJ18]](https://yongsoosong.github.io/files/papers/HELR.pdf)-->
 
 ## What's NEW
+  * Our paper [[CCS18]](https://eprint.iacr.org/2018/1043) about improved CKKS bootstrapping will appear in Eurocrypt'19.
   * Our team (UCSD) won the second track (Homomorphic Encryption) of iDASH Privacy and Security Competition 2018. [[URL]](http://www.humangenomeprivacy.org/2018/) [[overall results]](https://yongsoosong.github.io/images/idash18_track2.jpg)
   * [SEAL v3.1.0](http://sealcrypto.org/) has been released under MIT license. It now supports the Full RNS variant of HEAAN.
