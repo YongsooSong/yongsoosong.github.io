@@ -80,8 +80,22 @@ author_profile: true
       * [[url]](https://www.degruyter.com/viewbooktoc/product/207742) [[pdf]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
 
 ## Manuscripts
+  1. Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference
+      * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song
+      * [[ePrint]](https://eprint.iacr.org/2019/524) [[pdf]](https://yongsoosong.github.io/files/papers/PackedMKFHE.pdf)
+      * 2019
   1. Semi-parallel logistic regression for GWAS on encrypted data
+<<<<<<< HEAD
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio (2019)
+=======
+      * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
+      * [[ePrint]](https://eprint.iacr.org/2019/294) [[pdf]](https://yongsoosong.github.io/files/papers/Parallel_GWAS.pdf)
+      * 2019
+  1. Multi-Key Homomorphic Encryption from TFHE
+      * Hao Chen, Ilaria Chillotti, Yongsoo Song
+      * [[ePrint]](https://eprint.iacr.org/2019/116) [[pdf]](https://yongsoosong.github.io/files/papers/MKTFHE.pdf)
+      * 2019
+>>>>>>> 8dbe955b3f364985756ce0a91f0a44776faf4efb
  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
       * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon (2018)
       * [[ePrint]](https://eprint.iacr.org/2018/1214) [[pdf]](https://yongsoosong.github.io/files/papers/bio_auth.pdf)
