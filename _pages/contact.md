@@ -17,7 +17,7 @@ Yongsoo Song (alias: yoso) <br /> One Microsoft Way, Redmond <br /> WA 98052, Un
 
 ### Email
 
-Professional: Yongsoo dot Song at microsoft dot com <br />
+Professional: yongsoo dot song at microsoft dot com <br />
 Personal: yssong618 at gmail dot com
 
 <!--### Phone

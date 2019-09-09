@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conferences
+  1. Multi-Key Homomorphic Encryption from TFHE
+      * Hao Chen, Ilaria Chillotti, Yongsoo Song
+      * The 25th Annual International Conference on the Theory and Application of Cryptology and Information Security [[ASIACRYPT 2019]](https://asiacrypt.iacr.org/2019/)
+      * [[ePrint]](https://eprint.iacr.org/2019/116)
   1. Improved Bootstrapping for Approximate Homomorphic Encryption
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
       * The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques [[EUROCRYPT 2019]](https://eurocrypt.iacr.org/2019/)
@@ -13,7 +17,7 @@ author_profile: true
   1. Approximate Homomorphic Encryption over the Conjugate-invariant Ring
       * Duhyeong Kim, Yongsoo Song
       * The 21st Annual International Conference on Information Security and Cryptology [[ICISC 2018]](http://www.icisc.org/)
-      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-12146-4_6) [[ePrint]](https://eprint.iacr.org/2018/952) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_real.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-12146-4_6) [[ePrint]](https://eprint.iacr.org/2018/952)
   1. Secure Outsourced Matrix Computation and Application to Neural Networks
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * The 25th ACM Conference on Computer and Communications Security [[CCS 2018]](https://www.sigsac.org/ccs/CCS2018/)
@@ -21,19 +25,19 @@ author_profile: true
   1. A Full RNS Variant of Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * The 25th Conference on Selected Areas in Cryptography [[SAC 2018]](https://www.ucalgary.ca/cpsc/selected-areas-cryptography/)
-      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-10970-7_16) [[ePrint]](https://eprint.iacr.org/2018/931) [[pdf]](https://yongsoosong.github.io/files/papers/RNS.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-030-10970-7_16) [[ePrint]](https://eprint.iacr.org/2018/931)
   1. Lizard: Cut off the Tail! A Practical Post-Quantum Public-Key Encryption from LWE and LWR
       * Jung Hee Cheon, Duhyeong Kim, Joohee Lee, Yongsoo Song
       * The 11th Conference on Security and Cryptography for Networks [[SCN 2018]](http://scn.di.unisa.it/)
-      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-319-98113-0_9) [[ePrint]](https://eprint.iacr.org/2016/1126) [[pdf]](https://yongsoosong.github.io/files/papers/lizard.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007%2F978-3-319-98113-0_9) [[ePrint]](https://eprint.iacr.org/2016/1126)
   1. Bootstrapping for Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques [[EUROCRYPT 2018]](https://eurocrypt.iacr.org/2018/index.html)
-      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_14) [[ePrint]](https://eprint.iacr.org/2018/153) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN_boot.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_14) [[ePrint]](https://eprint.iacr.org/2018/153/)
   1. Homomorphic Encryption for Arithmetic of Approximate Numbers
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * The 23rd Annual International Conference on the Theory and Application of Cryptology and Information Security [[ASIACRYPT 2017]](https://asiacrypt.iacr.org/2017/)
-      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) [[ePrint]](https://eprint.iacr.org/2016/421) [[pdf]](https://yongsoosong.github.io/files/papers/HEAAN.pdf)
+      * [[url]](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) [[ePrint]](https://eprint.iacr.org/2016/421)
   1. Encrypting Controller using Fully Homomorphic Encryption for Security of Cyber-Physical Systems
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems [[NECSYS 2016]](http://www.necsys2016.ctrl.titech.ac.jp/)
@@ -51,7 +55,7 @@ author_profile: true
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
       * BMC Medical Genomics 2018
-      * [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0401-7) [[ePrint]](https://eprint.iacr.org/2018/254) [[pdf]](https://yongsoosong.github.io/files/papers/idash17.pdf)
+      * [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0401-7) [[ePrint]](https://eprint.iacr.org/2018/254)
   1. SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * IEEE/ACM Transactions on Computational Biology and Bioinformatics 2018
@@ -63,11 +67,11 @@ author_profile: true
   1. Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation
       * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * JMIR Medical Informatics 2018
-      * [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074) [[pdf]](https://yongsoosong.github.io/files/papers/HELR.pdf)
+      * [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074)
   1. Secure Searching of Biomarkers Through Hybrid Homomorphic Encryption Scheme
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
       * BMC Medical Genomics 2017
-      * [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294) [[pdf]](https://yongsoosong.github.io/files/papers/idash16.pdf)
+      * [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)
 
 ## Book and Book Chapters
   1. The Discrete Logarithm Problem with Auxiliary Inputs
@@ -77,29 +81,16 @@ author_profile: true
 
 ## Manuscripts
   1. Semi-parallel logistic regression for GWAS on encrypted data
-      * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
-      * 2019
-  1. Multi-Key Homomorphic Encryption from TFHE
-      * Hao Chen, Ilaria Chillotti, Yongsoo Song
-      * [[ePrint]](https://eprint.iacr.org/2019/116) [[pdf]](https://yongsoosong.github.io/files/papers/MKTFHE.pdf)
-      * 2019
+      * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio (2019)
  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
-      * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon
+      * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon (2018)
       * [[ePrint]](https://eprint.iacr.org/2018/1214) [[pdf]](https://yongsoosong.github.io/files/papers/bio_auth.pdf)
-      * 2018
   1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
-      * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao
-      * 2018
-  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher
-      * Jung Hee Cheon, Duhyeong Kim, Joohee Lee, Junbum Shin, Yongsoo Song
-      * 2018
+      * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao (2018)
   1. Applications of Homomorphic Encryption
-      * David Archer et al.
-      * 2017
+      * David Archer et al. (2017)
       * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
   1. Batch Fully Homomorphic Encryption over the Integers Revisited
-      * Jung Hee Cheon, Yongsoo Song
-      * 2016
+      * Jung Hee Cheon, Yongsoo Song (2016)
   1. Secure Sketch for Set Distance on Noisy Data
-      * Jung Hee Cheon, Yongsoo Song
-      * 2014
+      * Jung Hee Cheon, Yongsoo Song (2014)
