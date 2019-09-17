@@ -17,7 +17,7 @@ Education
 Positions
 ======
 * Microsoft Research, Redmond (January 2019 - Present)
-  * Researcher, Cryptography Group
+  * Senior Researcher, Cryptography Group
   * Research Manager: [Dr. Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/)
 
 * UC San Diego (January 2018 - December 2018)
