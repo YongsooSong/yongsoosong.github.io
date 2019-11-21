@@ -45,7 +45,7 @@ author_profile: true
   1. Encrypting Controller using Fully Homomorphic Encryption for Security of Cyber-Physical Systems
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems [[NECSYS 2016]](http://www.necsys2016.ctrl.titech.ac.jp/)
-      * [[url]](https://www.sciencedirect.com/science/article/pii/S2405896316319796) [[pdf]](https://yongsoosong.github.io/files/papers/CPS.pdf)
+      * [[url]](https://www.sciencedirect.com/science/article/pii/S2405896316319796) [[pdf]](https://yongsoosong.github.io/files/papers/cps.pdf)
   1. A Group Action on ZpX and the Generalized DLP with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
       * The 20th Conference on Selected Areas in Cryptography [[SAC 2013]](http://sac2013.irmacs.sfu.ca/)
