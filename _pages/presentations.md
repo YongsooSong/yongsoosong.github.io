@@ -4,6 +4,10 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+   1. Multi-key Homomorphic Encryption with Packed Ciphertexts
+      * CCS 2019, London, UK, November 2019
+      * [[slides]](https://yongsoosong.github.io/files/slides/CCS19_MKHE.pptx)
+
    1. Approximate Homomorphic Encryption: construction and bootstrapping
       * ECC 2018, University of Osaka, Japan, November 2018
       * [[slides]](https://yongsoosong.github.io/files/slides/ECC18.pdf)

@@ -25,7 +25,7 @@ author_profile: true
   1. Secure Outsourced Matrix Computation and Application to Neural Networks
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * The 25th ACM Conference on Computer and Communications Security [[CCS 2018]](https://www.sigsac.org/ccs/CCS2018/)
-      * [[url]](https://dl.acm.org/citation.cfm?id=3243837) [[pdf]](https://yongsoosong.github.io/files/papers/matrix.pdf)
+      * [[url]](https://dl.acm.org/citation.cfm?id=3243837) [[ePrint]](https://eprint.iacr.org/2018/1041)
   1. A Full RNS Variant of Approximate Homomorphic Encryption
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * The 25th Conference on Selected Areas in Cryptography [[SAC 2018]](https://www.ucalgary.ca/cpsc/selected-areas-cryptography/)
@@ -88,15 +88,12 @@ author_profile: true
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio (2019)
       * [[ePrint]](https://eprint.iacr.org/2019/294)
   1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
-      * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio (2019)
-      * [[ePrint]](https://eprint.iacr.org/2019/294)
-  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
       * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon (2018)
       * [[ePrint]](https://eprint.iacr.org/2018/1214)
   1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao (2018)
   1. Applications of Homomorphic Encryption
-      * David Archer et al. (2017)
+      * David Archer et al. (whitepaper, 2017)
       * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
   1. Batch Fully Homomorphic Encryption over the Integers Revisited
       * Jung Hee Cheon, Yongsoo Song (2016)
