@@ -27,7 +27,6 @@ Related Researches
     * Over Real Numbers [[KS18]](https://eprint.iacr.org/2018/952)
     * Multi-key Variant [[CDKS19]](https://eprint.iacr.org/2019/524)
   * Applications
-<<<<<<< HEAD
     * Neural Networks Evaluation [[JKLS18]](https://eprint.iacr.org/2018/1041/)
     * Logistic Regression Model Training [[KSK+18 (iDASH17)]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSW+18]](https://yongsoosong.github.io/files/papers/HELR.pdf)
 
