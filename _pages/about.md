@@ -30,9 +30,9 @@ Related Researches
 <<<<<<< HEAD
     * Neural Networks Evaluation [[JKLS18]](https://eprint.iacr.org/2018/1041/)
     * Logistic Regression Model Training [[KSK+18 (iDASH17)]](https://yongsoosong.github.io/files/papers/idash17.pdf) [[KSW+18]](https://yongsoosong.github.io/files/papers/HELR.pdf)
--->
 
 ## What's NEW
   * Multi-key BFV/CKKS [[CDKS19]](https://eprint.iacr.org/2019/524/) has been accepted to CCS'19.
   * We have updated [[JKLS18]](https://eprint.iacr.org/2018/1041/). Now it presents better experimental results for matrix operations.
   * Multi-key TFHE [[CCS19b]](https://eprint.iacr.org/2019/116/) has been accepted to Asiacrypt'19.
+-->

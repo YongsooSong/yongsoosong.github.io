@@ -4,6 +4,10 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+   1. Introduction to CKKS
+      * Private AI Bootcamp, Microsoft Research Redmond, USA, December 2019
+      * [[slides]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf)
+
    1. Multi-key Homomorphic Encryption with Packed Ciphertexts
       * CCS 2019, London, UK, November 2019
       * [[slides]](https://yongsoosong.github.io/files/slides/CCS19_MKHE.pptx)
