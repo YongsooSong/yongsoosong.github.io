@@ -17,7 +17,7 @@ author_profile: true
   1. Improved Bootstrapping for Approximate Homomorphic Encryption
       * Hao Chen, Ilaria Chillotti, Yongsoo Song
       * The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques [[EUROCRYPT 2019]](https://eurocrypt.iacr.org/2019/)
-      * [[ePrint]](https://eprint.iacr.org/2018/1043)
+      * [[ePrint]](https://eprint.iacr.org/2018/1043) [[video]](https://www.youtube.com/watch?v=9cCnmgPZGfw&t=3s)
   1. Approximate Homomorphic Encryption over the Conjugate-invariant Ring
       * Duhyeong Kim, Yongsoo Song
       * The 21st Annual International Conference on Information Security and Cryptology [[ICISC 2018]](http://www.icisc.org/)
@@ -84,6 +84,12 @@ author_profile: true
       * [[url]](https://www.degruyter.com/viewbooktoc/product/207742) [[pdf]](https://yongsoosong.github.io/files/papers/DLPwAI.pdf)
 
 ## Manuscripts
+  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
+      * Hao Chen, Miran Kim, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh (2020)
+      * [[ePrint]](https://eprint.iacr.org/2020/451)
+  1. Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts
+      * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song (2020)
+      * [[ePrint]](https://eprint.iacr.org/2020/015)
   1. Semi-parallel logistic regression for GWAS on encrypted data
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio (2019)
       * [[ePrint]](https://eprint.iacr.org/2019/294)

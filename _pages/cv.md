@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[[pdf]](https://yongsoosong.github.io/files/CV.pdf) (last update: Nov 2019)
+[[pdf]](https://yongsoosong.github.io/files/CV.pdf)
 
 Education
 ======

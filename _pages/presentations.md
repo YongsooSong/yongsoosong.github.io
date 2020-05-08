@@ -4,13 +4,17 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+   1. The HEAAN (aka CKKS) FHE
+      * Lattices: From Theory to Practice, Simons Workshop, April 2020
+      * [[slides]](https://yongsoosong.github.io/files/slides/Simons_HEAAN.pdf) [[video]](https://simons.berkeley.edu/talks/heaan-fhe)
+
    1. Introduction to CKKS
       * Private AI Bootcamp, Microsoft Research Redmond, USA, December 2019
-      * [[slides]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf)
+      * [[slides]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf) [[video]](https://www.youtube.com/watch?v=iQlgeL64vfo)
 
    1. Multi-key Homomorphic Encryption with Packed Ciphertexts
       * CCS 2019, London, UK, November 2019
-      * [[slides]](https://yongsoosong.github.io/files/slides/CCS19_MKHE.pptx)
+      * [[slides]](https://yongsoosong.github.io/files/slides/CCS19_MKHE.pptx) [[video]](https://dl.acm.org/doi/10.1145/3319535.3363207)
 
    1. Approximate Homomorphic Encryption: construction and bootstrapping
       * ECC 2018, University of Osaka, Japan, November 2018
