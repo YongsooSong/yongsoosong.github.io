@@ -9,16 +9,19 @@ author_profile: true
 
 Microsoft Building 99, Redmond, WA 98052-->
 
-### Mailing Address
 
-<address>
-Yongsoo Song (alias: yoso) <br /> One Microsoft Way, Redmond <br /> WA 98052, United States
-</address> 
+### The best way to contact me is via email
 
-### Email
-
-Professional: yongsoo dot song at microsoft dot com <br />
+Professional: y dot song at snu dot ac dot kr <br />
 Personal: yssong618 at gmail dot com
+
+### Phone
+(+82) 2 - 880 - 7314
+
+### Office
+
+Room 501, Building 301, Seoul National University
+
 
 <!--### Phone
 

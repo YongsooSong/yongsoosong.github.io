@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher in the [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, Redmond.
-My research focus is on security, privacy, and advanced cryptography. Currently I am very interested in design, optimization, and applications of Homomorphic Encryption.
+I am an Assistant Professor in the Department of Computer Science and Engineering at Seoul National University.
+My research interests are in Cryptography and Privacy. Recently, I have been working on homomorphic encryption and multi-party computation. I am also interested in building cryptographic protocols to solve the privacy issues in machine learning.
 
-I obtained my B.S. and Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2012 and 2018, respectively. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
-I have been a postdoctoral researcher hosted by [Prof. Sicun Gao](https://scungao.github.io) at UC San Diego prior to joining Microsoft.
-
-I am inventor of the [CKKS](https://eprint.iacr.org/2016/421/) homomorphic encryption scheme, which supports approximate fixed-point arithmetic.
-The first implementation [HEAAN](https://github.com/snucrypto/HEAAN/) from SNU came out in 2017.
-An implementation of its [RNS variant](https://eprint.iacr.org/2018/931/) (with some minor changes from the paper) is publicly available in [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) under MIT license.
+Before joining Seoul National University, I was a senior researcher in Cryptography and Privacy Research Group at Microsoft Research Redmond, managed by [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/), from 2019 to 2020.
+Prior to that, I was a postdoctoral researcher at UC San Diego, under the supervision of [Sicun Gao](https://scungao.github.io).
+I obtained my PhD in Mathematical Sciences at Seoul National University in 2018. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 
 <!--
 Related Researches
