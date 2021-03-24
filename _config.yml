@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song, Yongsoo <br><br> (송 용수, 宋 龍秀)"
+  name             : "Yongsoo Song"
   avatar           : "profile.jpg"
-  bio              : "Microsoft Research, Redmond"
-  location         : "WA, United States"
-  employer         : 
+  bio              : "Assistant Professor"
+  location         : "Seoul, South Korea"
+  employer         : "Seoul National University"
   googlescholar    : "https://scholar.google.com/citations?user=KUHhL3QAAAAJ&hl=en&authuser=1"
-  email            : "yssong618@gmail.com"
+  email            : "y.song@snu.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
