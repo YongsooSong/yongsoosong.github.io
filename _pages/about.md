@@ -15,6 +15,9 @@ Before joining Seoul National University, I was a senior researcher in Cryptogra
 Prior to that, I was a postdoctoral researcher at UC San Diego, under the supervision of [Sicun Gao](https://scungao.github.io).
 I obtained my PhD in Mathematical Sciences at Seoul National University in 2018. My advisor was [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 
+I am always looking for motivated students with backgrounds in computer science and mathematics.
+Our lab also has summer/winter internship programs to provide undergraduate students with research experience in the field of cryptography.
+
 <!--
 Related Researches
   * Construction

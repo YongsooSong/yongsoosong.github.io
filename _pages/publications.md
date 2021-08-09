@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 ## Conferences
-  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
-      * Hao Chen, Miran Kim, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * ASIACRYPT 2020 [[ePrint]](https://eprint.iacr.org/2020/451)
   1. Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts
       * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song
       * ACNS 2021 [[ePrint]](https://eprint.iacr.org/2020/015)
+  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
+      * Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee, Yongsoo Song
+      * ACISP 2021 [[ePrint]](https://eprint.iacr.org/2018/1214)
+  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
+      * Hao Chen, Miran Kim, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
+      * ASIACRYPT 2020 [[ePrint]](https://eprint.iacr.org/2020/451)
   1. Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference
       * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song
       * CCS 2019 [[ePrint]](https://eprint.iacr.org/2019/524)
@@ -47,6 +50,15 @@ author_profile: true
       * SAC 2013 [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
+  1. Ultra-fast homomorphic encryption models enable secure outsourcing of genotype imputation
+      * Miran Kim, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, Xiaoqian Jiang
+      * (To appear) Cell Systems
+  1. Computing Blindfolded on Data Homomorphically Encrypted under Multiple Keys: A Survey
+      * Asma Aloufi, Peizhao Hu, Yongsoo Song, Kristin Lauter
+      * (To appear) ACM Computing Surveys
+  1. Privacy-Oriented Technique for COVID-19 Contact Tracing (PROTECT) Using Homomorphic Encryption: Design and Development Study
+      * Yongdae An, Seungmyung Lee, Seungwoo Jung, Howard Park, Yongsoo Song, Taehoon Ko
+      * Journal of Medical Internet Research 2021 [[url]](https://www.jmir.org/2021/7/e26371/)
   1. Semi-parallel logistic regression for GWAS on encrypted data
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * BMC Medical Genomics 2020 [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0724-z) [[ePrint]](https://eprint.iacr.org/2019/294)
@@ -75,9 +87,8 @@ author_profile: true
       * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014 [[url]](https://www.degruyter.com/viewbooktoc/product/207742)
 
 ## Manuscripts
-  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
-      * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon (2018)
-      * [[ePrint]](https://eprint.iacr.org/2018/1214)
+  1. On the Concrete Security of LWE with Small Secret
+      * Hao Chen, Lynn Chua, Kristin Lauter, Yongsoo Song (2020)
   1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
       * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao (2018)
   1. Applications of Homomorphic Encryption
