@@ -14,7 +14,7 @@ Education
   * Research area: Cryptography
   * Advisor: Prof. Jung Hee Cheon
 
-Positions
+Working Experiences
 ======
 
 * Seoul National University (March 2021 - Present)

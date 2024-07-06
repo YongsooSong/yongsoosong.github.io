@@ -10,17 +10,13 @@ author_profile: true
 Microsoft Building 99, Redmond, WA 98052-->
 
 
-### The best way to contact me is via email
+### Email
 
-Professional: y dot song at snu dot ac dot kr <br />
-Personal: yssong618 at gmail dot com
-
-### Phone
-(+82) 2 - 880 - 7314
+y dot song at snu dot ac dot kr
 
 ### Office
 
-Room 501, Building 301, Seoul National University
+301-501, Seoul National University
 
 
 <!--### Phone

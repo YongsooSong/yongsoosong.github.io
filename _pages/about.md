@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I am an Assistant Professor in the Department of Computer Science and Engineering at Seoul National University.
-My research interests are in Cryptography and Privacy. Recently, I have been working on homomorphic encryption and multi-party computation. I am also interested in building and implementing cryptographic protocols to solve the privacy issues in machine learning.
+My research specializes in Privacy-Enhancing Cryptography (PEC) for secure computation. This includes fully homomorphic encryption, multi-party computation, and zero-knowledge proofs, approached from both theoretical and applied perspectives.
 
-Before joining Seoul National University, I was a senior researcher in Cryptography and Privacy Research Group at Microsoft Research Redmond, managed by [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/), from 2019 to 2020.
+Before joining Seoul National University, I was a senior researcher in Cryptography and Privacy Research Group at Microsoft Research Redmond, managed by [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter), from 2019 to 2020.
 Prior to that, I was a postdoctoral researcher at UC San Diego, under the supervision of [Sicun Gao](https://scungao.github.io).
-I obtained my PhD in Mathematical Sciences at Seoul National University in 2018. My advisor was [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
+I obtained my PhD in Mathematical Sciences at Seoul National University in 2018. My advisor was [Jung Hee Cheon](https://en.wikipedia.org/wiki/Cheon,_Jung_Hee).
 
 I am always looking for motivated students with backgrounds in computer science and mathematics.
 Our lab also has summer/winter internship programs to provide undergraduate students with research experience in the field of cryptography.

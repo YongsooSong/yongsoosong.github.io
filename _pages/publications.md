@@ -6,10 +6,37 @@ author_profile: true
 ---
 
 ## Conferences
+  1. Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS
+      * HJaehyung Kim, Jinyeong Seo, Yongsoo Song
+      * ACM CCS 2024 [[ePrint]](https://eprint.iacr.org/2024/109)
+  1. Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions
+      * Intak Hwang, Jinyeong Seo, Yongsoo Song
+      * Crypto 2024 [[ePrint]](https://eprint.iacr.org/2024/306)
+  1. Towards Practical Multi-key TFHE: Parallelizable, Key-compatible, Quasi-linear Complexity
+      * Hyesun Kwak, Seonhong Min, Yongsoo Song
+      * PKC 2024 [[ePrint]](https://eprint.iacr.org/2022/1460)
+  1. A General Framework of Homomorphic Encryption for Multiple Parties with Non-interactive Key-Aggregation
+      * Hyesun Kwak, Dongwon Lee, Yongsoo Song, Sameer Wagh
+      * ACNS 2024 [[ePrint]](https://eprint.iacr.org/2021/1412)
+  1. Optimizing HE operations via Level-aware Key-switching Framework
+      * Intak Hwang, Jinyeong Seo, Yongsoo Song
+      * WAHC 2023 [[ePrint]](https://eprint.iacr.org/2023/1328)
+  1. Asymptotically Faster Multi-key Homomorphic Encryption from Homomorphic Gadget Decomposition
+      * Taechan Kim, Hyesun Kwak, Dongwon Lee, Jinyeong Seo, Yongsoo Song
+      * ACM CCS 2023 [[ePrint]](https://eprint.iacr.org/2022/347)
+  1. Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE
+      * Duhyeong Kim, Dongwon Lee, Jinyeong Seo, Yongsoo Song
+      * Crypto 2023 [[ePrint]](https://eprint.iacr.org/2023/623)
+  1. Accelerating HE Operations from Key Decomposition Technique
+      * Miran Kim, Dongwon Lee, Jinyeong Seo, Yongsoo Song
+      * Crypto 2023 [[ePrint]](https://eprint.iacr.org/2023/413)
+  1. Faster TFHE Bootstrapping with Block Binary Keys
+      * Changmin Lee, Seonhong Min, Jinyeong Seo, Yongsoo Song
+      * AsiaCCS 2023 [[ePrint]](https://eprint.iacr.org/2023/958)
   1. Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts
       * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song
       * ACNS 2021 [[ePrint]](https://eprint.iacr.org/2020/015)
-  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
+  1. Lattice-Based Secure Biometric Authentication for Hamming Distance
       * Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee, Yongsoo Song
       * ACISP 2021 [[ePrint]](https://eprint.iacr.org/2018/1214)
   1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
@@ -50,12 +77,21 @@ author_profile: true
       * SAC 2013 [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
+  1. Harnessing the Potential of Shared Data in a Secure, Inclusive, and Resilient Manner via Multi-key Homomorphic Encryption
+      * David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak, Brian W. Anthony
+      * Scientific Reports 2024
+  1. On the Concrete Security of LWE With Small Secret
+      * Lynn Chua, Hao Chen, \underline{Y.~Song}, Kristin Lauter
+      * La Matematica 2024
+  1. Comparison of Encrypted Control Approaches and Tutorial on Dynamic Systems Using Learning with Errors-based Homomorphic Encryption
+      * Junsoo Kim, Dongwoo Kim, Yongsoo Song, Hyungbo Shim, Henrik Sandberg, Karl H Johansson
+      * Annual Reviews in Control 2022
   1. Ultra-fast homomorphic encryption models enable secure outsourcing of genotype imputation
       * Miran Kim, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, Xiaoqian Jiang
-      * (To appear) Cell Systems
+      * Cell Systems 2021
   1. Computing Blindfolded on Data Homomorphically Encrypted under Multiple Keys: A Survey
       * Asma Aloufi, Peizhao Hu, Yongsoo Song, Kristin Lauter
-      * (To appear) ACM Computing Surveys
+      * ACM Computing Surveys 2021
   1. Privacy-Oriented Technique for COVID-19 Contact Tracing (PROTECT) Using Homomorphic Encryption: Design and Development Study
       * Yongdae An, Seungmyung Lee, Seungwoo Jung, Howard Park, Yongsoo Song, Taehoon Ko
       * Journal of Medical Internet Research 2021 [[url]](https://www.jmir.org/2021/7/e26371/)
@@ -81,20 +117,10 @@ author_profile: true
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
       * BMC Medical Genomics 2017 [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)
 
-## Book and Book Chapters
+## Others
+  1. Introduction to Homomorphic Encryption and Schemes
+      * Jung Hee Cheon, Anamaria Costache, Radames Cruz Moreno, Wei Dai, Nicolas Gama, Mariya Georgieva, Shai Halevi, Miran Kim, Sunwoong Kim, Kim Laine, Yuriy Polyakov, Yongsoo Song
+      * Protecting Privacy through Homomorphic Encryption, Springer, 2022
   1. The Discrete Logarithm Problem with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
-      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014 [[url]](https://www.degruyter.com/viewbooktoc/product/207742)
-
-## Manuscripts
-  1. On the Concrete Security of LWE with Small Secret
-      * Hao Chen, Lynn Chua, Kristin Lauter, Yongsoo Song (2020)
-  1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
-      * Yongsoo Song, Jacek Cyranka, Duhyeong Kim, Sicun Gao (2018)
-  1. Applications of Homomorphic Encryption
-      * David Archer et al. (whitepaper, 2017)
-      * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
-  1. Batch Fully Homomorphic Encryption over the Integers Revisited
-      * Jung Hee Cheon, Yongsoo Song (2016)
-  1. Secure Sketch for Set Distance on Noisy Data
-      * Jung Hee Cheon, Yongsoo Song (2014)
+      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
