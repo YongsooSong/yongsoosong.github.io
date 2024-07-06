@@ -81,7 +81,7 @@ author_profile: true
       * David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak, Brian W. Anthony
       * Scientific Reports 2024
   1. On the Concrete Security of LWE With Small Secret
-      * Lynn Chua, Hao Chen, \underline{Y.~Song}, Kristin Lauter
+      * Lynn Chua, Hao Chen, Yongsoo Song, Kristin Lauter
       * La Matematica 2024
   1. Comparison of Encrypted Control Approaches and Tutorial on Dynamic Systems Using Learning with Errors-based Homomorphic Encryption
       * Junsoo Kim, Dongwoo Kim, Yongsoo Song, Hyungbo Shim, Henrik Sandberg, Karl H Johansson
