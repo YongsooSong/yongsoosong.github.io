@@ -8,7 +8,7 @@ author_profile: true
 ## Conferences
   1. TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing
       * Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
-      * IEEE S\&P 2025 [[ePrint]](https://eprint.iacr.org/2024/1502)
+      * IEEE S&P 2025 [[ePrint]](https://eprint.iacr.org/2024/1502)
   1. Enhanced CKKS Bootstrapping with Generalized Polynomial Composites Approximation
       * Seonhong Min, Joon-Woo Lee, Yongsoo Song
       * ACM ASIACCS 2025 [[ePrint]](https://eprint.iacr.org/2025/429)
