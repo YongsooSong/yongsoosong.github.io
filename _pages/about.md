@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science and Engineering at Seoul National University.
+I am an Associate Professor in the Department of Computer Science and Engineering at Seoul National University.
 My research specializes in Privacy-Enhancing Cryptography (PEC) for secure computation. This includes fully homomorphic encryption, multi-party computation, and zero-knowledge proofs, approached from both theoretical and applied perspectives.
 
 Before joining Seoul National University, I was a senior researcher in Cryptography and Privacy Research Group at Microsoft Research Redmond, managed by [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter), from 2019 to 2020.

@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 ## Conferences
+  1. TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing
+      * Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
+      * IEEE S\&P 2025 [[ePrint]](https://eprint.iacr.org/2024/1502)
+  1. Enhanced CKKS Bootstrapping with Generalized Polynomial Composites Approximation
+      * Seonhong Min, Joon-Woo Lee, Yongsoo Song
+      * ACM ASIACCS 2025 [[ePrint]](https://eprint.iacr.org/2025/429)
   1. Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS
-      * HJaehyung Kim, Jinyeong Seo, Yongsoo Song
+      * Jaehyung Kim, Jinyeong Seo, Yongsoo Song
       * ACM CCS 2024 [[ePrint]](https://eprint.iacr.org/2024/109)
   1. Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions
       * Intak Hwang, Jinyeong Seo, Yongsoo Song
@@ -79,19 +85,19 @@ author_profile: true
 ## Journals
   1. Harnessing the Potential of Shared Data in a Secure, Inclusive, and Resilient Manner via Multi-key Homomorphic Encryption
       * David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak, Brian W. Anthony
-      * Scientific Reports 2024
+      * Scientific Reports 2024 [[url]](https://www.nature.com/articles/s41598-024-63393-1)
   1. On the Concrete Security of LWE With Small Secret
       * Lynn Chua, Hao Chen, Yongsoo Song, Kristin Lauter
-      * La Matematica 2024
+      * La Matematica 2024 [[url]](https://link.springer.com/article/10.1007/s44007-024-00111-3)
   1. Comparison of Encrypted Control Approaches and Tutorial on Dynamic Systems Using Learning with Errors-based Homomorphic Encryption
       * Junsoo Kim, Dongwoo Kim, Yongsoo Song, Hyungbo Shim, Henrik Sandberg, Karl H Johansson
-      * Annual Reviews in Control 2022
+      * Annual Reviews in Control 2022 [[url]](https://doi.org/10.1016/j.arcontrol.2022.10.002)
   1. Ultra-fast homomorphic encryption models enable secure outsourcing of genotype imputation
       * Miran Kim, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, Xiaoqian Jiang
-      * Cell Systems 2021
+      * Cell Systems 2021 [[url]](https://doi.org/10.1016/j.cels.2021.07.010)
   1. Computing Blindfolded on Data Homomorphically Encrypted under Multiple Keys: A Survey
       * Asma Aloufi, Peizhao Hu, Yongsoo Song, Kristin Lauter
-      * ACM Computing Surveys 2021
+      * ACM Computing Surveys 2021 [[url]](https://dl.acm.org/doi/10.1145/3477139)
   1. Privacy-Oriented Technique for COVID-19 Contact Tracing (PROTECT) Using Homomorphic Encryption: Design and Development Study
       * Yongdae An, Seungmyung Lee, Seungwoo Jung, Howard Park, Yongsoo Song, Taehoon Ko
       * Journal of Medical Internet Research 2021 [[url]](https://www.jmir.org/2021/7/e26371/)
@@ -124,3 +130,30 @@ author_profile: true
   1. The Discrete Logarithm Problem with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
       * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014
+
+## Preprints
+  1. Provably Secure Approximate Computation Protocols from CKKS
+      * Intak Hwang, Yisol Hwang, Miran Kim, Dongwon Lee, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2025/395
+  1. On the Security and Privacy of CKKS-based Homomorphic Evaluation Protocols
+      * Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2025/382
+  1. Practical Circuit Privacy/Sanitization for TFHE
+      * Intak Hwang, Seonhong Min, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2025/216
+  1. Ciphertext-Simulatable HE from BFV with Randomized Evaluation
+      * Intak Hwang, Seonhong Min, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2025/203
+  1. Carousel: Fully Homomorphic Encryption from Slot Blind Rotation Technique
+      * Seonhong Min, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2024/2032
+  1. Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption
+      * Intak Hwang, Hyeonbum Lee, Jinyeong Seo, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2024/1879
+  1. More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead
+      * Leo de Castro, Duhyeong Kim, Miran Kim, Keewoo Lee, Seonhong Min, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2024/1534
+  1. Functional Bootstrapping for Packed Ciphertexts via Homomorphic LUT Evaluation
+      * Dongwon Lee, Seonhong Min, Yongsoo Song
+      * Cryptology ePrint Archive, Paper 2024/181
+

@@ -14,11 +14,11 @@ Education
   * Research area: Cryptography
   * Advisor: Prof. Jung Hee Cheon
 
-Working Experiences
+Work Experiences
 ======
 
 * Seoul National University (March 2021 - Present)
-  * Assistant Professor, Department of Computer Science and Engineering
+  * Associate Professor, Department of Computer Science and Engineering
 
 * Microsoft Research, Redmond (January 2019 - February 2021)
   * Senior Researcher, Cryptography and Privacy Research Group
