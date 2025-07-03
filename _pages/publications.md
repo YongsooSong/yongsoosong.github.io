@@ -6,7 +6,16 @@ author_profile: true
 ---
 
 ## Conferences
-  1. TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing
+  1. Practical Circuit Privacy/Sanitization for TFHE
+      * Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
+      *  ACM CCS 2025 [[ePrint]](https://eprint.iacr.org/2025/216)
+  1. Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption
+      * Intak Hwang, Hyeonbum Lee, Jinyeong Seo, Yongsoo Song
+      *  ACM CCS 2025 [[ePrint]](https://eprint.iacr.org/2024/1879)
+  1. Efficient Full Domain Functional Bootstrapping from Recursive LUT Decomposition
+      * Intak Hwang, Shinwon Lee, Seonhong Min, Yongsoo Song
+      *  SAC 2025
+  1. MatriGear: Accelerating Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing
       * Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
       * IEEE S&P 2025 [[ePrint]](https://eprint.iacr.org/2024/1502)
   1. Enhanced CKKS Bootstrapping with Generalized Polynomial Composites Approximation
@@ -38,7 +47,7 @@ author_profile: true
       * Crypto 2023 [[ePrint]](https://eprint.iacr.org/2023/413)
   1. Faster TFHE Bootstrapping with Block Binary Keys
       * Changmin Lee, Seonhong Min, Jinyeong Seo, Yongsoo Song
-      * AsiaCCS 2023 [[ePrint]](https://eprint.iacr.org/2023/958)
+      * ACM AsiaCCS 2023 [[ePrint]](https://eprint.iacr.org/2023/958)
   1. Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts
       * Hao Chen, Wei Dai, Miran Kim, Yongsoo Song
       * ACNS 2021 [[ePrint]](https://eprint.iacr.org/2020/015)
@@ -83,45 +92,48 @@ author_profile: true
       * SAC 2013 [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
+  1. HRing-LWE based Encrypted Cntroller with Unlimited Number of Recursive Multiplications and Effect of Error Growth
+      * Yeongjun Jang, Joowon Lee, Seonhong Min, Hyesun Kwak, Junsoo Kim, Yongsoo Song
+      * IEEE Transactions on Control of Network Systems (2025)
   1. Harnessing the Potential of Shared Data in a Secure, Inclusive, and Resilient Manner via Multi-key Homomorphic Encryption
       * David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak, Brian W. Anthony
-      * Scientific Reports 2024 [[url]](https://www.nature.com/articles/s41598-024-63393-1)
+      * Scientific Reports (2024) [[url]](https://www.nature.com/articles/s41598-024-63393-1)
   1. On the Concrete Security of LWE With Small Secret
       * Lynn Chua, Hao Chen, Yongsoo Song, Kristin Lauter
-      * La Matematica 2024 [[url]](https://link.springer.com/article/10.1007/s44007-024-00111-3)
+      * La Matematica (2024) [[url]](https://link.springer.com/article/10.1007/s44007-024-00111-3)
   1. Comparison of Encrypted Control Approaches and Tutorial on Dynamic Systems Using Learning with Errors-based Homomorphic Encryption
       * Junsoo Kim, Dongwoo Kim, Yongsoo Song, Hyungbo Shim, Henrik Sandberg, Karl H Johansson
-      * Annual Reviews in Control 2022 [[url]](https://doi.org/10.1016/j.arcontrol.2022.10.002)
+      * Annual Reviews in Control (2022) [[url]](https://doi.org/10.1016/j.arcontrol.2022.10.002)
   1. Ultra-fast homomorphic encryption models enable secure outsourcing of genotype imputation
       * Miran Kim, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, Xiaoqian Jiang
-      * Cell Systems 2021 [[url]](https://doi.org/10.1016/j.cels.2021.07.010)
+      * Cell Systems (2021) [[url]](https://doi.org/10.1016/j.cels.2021.07.010)
   1. Computing Blindfolded on Data Homomorphically Encrypted under Multiple Keys: A Survey
       * Asma Aloufi, Peizhao Hu, Yongsoo Song, Kristin Lauter
-      * ACM Computing Surveys 2021 [[url]](https://dl.acm.org/doi/10.1145/3477139)
+      * ACM Computing Surveys (2021) [[url]](https://dl.acm.org/doi/10.1145/3477139)
   1. Privacy-Oriented Technique for COVID-19 Contact Tracing (PROTECT) Using Homomorphic Encryption: Design and Development Study
       * Yongdae An, Seungmyung Lee, Seungwoo Jung, Howard Park, Yongsoo Song, Taehoon Ko
-      * Journal of Medical Internet Research 2021 [[url]](https://www.jmir.org/2021/7/e26371/)
+      * Journal of Medical Internet Research (2021) [[url]](https://www.jmir.org/2021/7/e26371/)
   1. Semi-parallel logistic regression for GWAS on encrypted data
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
-      * BMC Medical Genomics 2020 [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0724-z) [[ePrint]](https://eprint.iacr.org/2019/294)
+      * BMC Medical Genomics (2020) [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0724-z) [[ePrint]](https://eprint.iacr.org/2019/294)
   1. Ensemble Method for Privacy-Preserving Logistic Regression based on Homomorphic Encryption
       * Jung Hee Cheon, Duhyeong Kim, Yongdae Kim, Yongsoo Song
-      * IEEE Access 2018 [[url]](https://ieeexplore.ieee.org/document/8444365) [[pdf]](https://yongsoosong.github.io/files/papers/ensemble.pdf)
+      * IEEE Access (2018) [[url]](https://ieeexplore.ieee.org/document/8444365) [[pdf]](https://yongsoosong.github.io/files/papers/ensemble.pdf)
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
-      * BMC Medical Genomics 2018 [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0401-7) [[ePrint]](https://eprint.iacr.org/2018/254)
+      * BMC Medical Genomics (2018) [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0401-7) [[ePrint]](https://eprint.iacr.org/2018/254)
   1. SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
-      * IEEE/ACM Transactions on Computational Biology and Bioinformatics 2018 [[url]](https://ieeexplore.ieee.org/document/8355587) [[pdf]](https://yongsoosong.github.io/files/papers/sgx.pdf)
+      * IEEE/ACM Transactions on Computational Biology and Bioinformatics (2018) [[url]](https://ieeexplore.ieee.org/document/8355587) [[pdf]](https://yongsoosong.github.io/files/papers/sgx.pdf)
   1. Toward a Secure Drone System: Flying with Real-time Homomorphic Authenticated Encryption
       * Jung Hee Cheon, Kyoohyung Han, Seong-Min Hong, Hyoun Jin Kim, Junsoo Kim, Suseong Kim, Hosung Seo, Hyungbo Shim, Yongsoo Song
-      * IEEE Access 2018 [[url]](https://ieeexplore.ieee.org/document/8325268) [[pdf]](https://yongsoosong.github.io/files/papers/drone.pdf)
+      * IEEE Access (2018) [[url]](https://ieeexplore.ieee.org/document/8325268) [[pdf]](https://yongsoosong.github.io/files/papers/drone.pdf)
   1. Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation
       * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
-      * JMIR Medical Informatics 2018 [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074)
+      * JMIR Medical Informatics (2018) [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074)
   1. Secure Searching of Biomarkers Through Hybrid Homomorphic Encryption Scheme
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
-      * BMC Medical Genomics 2017 [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)
+      * BMC Medical Genomics (2017) [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)
 
 ## Others
   1. Introduction to Homomorphic Encryption and Schemes
@@ -138,18 +150,12 @@ author_profile: true
   1. On the Security and Privacy of CKKS-based Homomorphic Evaluation Protocols
       * Intak Hwang, Seonhong Min, Jinyeong Seo, Yongsoo Song
       * Cryptology ePrint Archive, Paper 2025/382
-  1. Practical Circuit Privacy/Sanitization for TFHE
-      * Intak Hwang, Seonhong Min, Yongsoo Song
-      * Cryptology ePrint Archive, Paper 2025/216
   1. Ciphertext-Simulatable HE from BFV with Randomized Evaluation
       * Intak Hwang, Seonhong Min, Yongsoo Song
       * Cryptology ePrint Archive, Paper 2025/203
   1. Carousel: Fully Homomorphic Encryption from Slot Blind Rotation Technique
       * Seonhong Min, Yongsoo Song
       * Cryptology ePrint Archive, Paper 2024/2032
-  1. Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption
-      * Intak Hwang, Hyeonbum Lee, Jinyeong Seo, Yongsoo Song
-      * Cryptology ePrint Archive, Paper 2024/1879
   1. More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead
       * Leo de Castro, Duhyeong Kim, Miran Kim, Keewoo Lee, Seonhong Min, Yongsoo Song
       * Cryptology ePrint Archive, Paper 2024/1534
